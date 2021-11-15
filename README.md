@@ -1,4 +1,4 @@
-# Simple-App-to-Calculate-distance-between-two-cities.
+# Simple-App-to-Calculate-time-to-travel-between-two-cities.
 This app is used to calculate the time to travel between two areas .The App is built using Tkinter which is a Python Interface.
 The app uses a predefined csv file to match the areas.
 To run the code:
